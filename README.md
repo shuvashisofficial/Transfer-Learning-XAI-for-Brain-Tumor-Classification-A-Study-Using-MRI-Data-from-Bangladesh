@@ -73,22 +73,14 @@ The dataset used for training and evaluation is "Brain Cancer - MRI dataset" ava
 
 ## Explainable AI
 - **Gradcam:**
+
 ![Explainable AI](Images/Gradcam/VGG16_gradcam_brain_menin.jpg)
 ![Explainable AI](Images/Gradcam/VGG19_2_gradcam_brain_tumor_0019.jpg)
-![Explainable AI](Images/Gradcam/VGG19_2_gradcam_brain_glioma_0015.jpg)
-![Explainable AI](Images/Gradcam/VGG16_gradcam_brain_tumor_0599.jpg)
-![Explainable AI](Images/Gradcam/VGG16_gradcam_brain_menin_0456.jpg)
-![Explainable AI](Images/Gradcam/VGG16_gradcam_brain_menin_0143.jpg)
-![Explainable AI](Images/Gradcam/VGG16_gradcam_brain_menin_0099.jpg)
 
 - **Gradcam++:**
+
 ![Explainable AI](Images/Gradcam++/VGG16_gradcam++_brain_menin_0040_page-0001.jpg)
 ![Explainable AI](Images/Gradcam++/VGG16_gradcam++_brain_menin_0099_page-0001.jpg)
-![Explainable AI](Images/Gradcam++/VGG16_gradcam++_brain_menin_0143_page-0001.jpg)
-![Explainable AI](ImagesGradcam++/VGG16_gradcam++_brain_menin_0456_page-0001.jpg)
-![Explainable AI](Images/Gradcam++/VGG19_2_gradcam++_brain_glioma_0015_page-0001.jpg)
-![Explainable AI](Images/Gradcam++/VGG19_2_gradcam++_brain_tumor_0019_page-0001.jpg)
-![Explainable AI](ImagesGradcam++/VGG19_2_gradcam++_brain_tumor_0262_page-0001.jpg)
 
 ## Contact Information
 
